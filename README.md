@@ -1,0 +1,2 @@
+# daystar
+Daycare Management system
